@@ -1,0 +1,2 @@
+Prefix plugins/BMTool/example
+Plugin BMTool inputfile parameters.txt outputfile output.bitmask
